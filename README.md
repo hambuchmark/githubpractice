@@ -1,0 +1,2 @@
+# githubpractice
+Github használatának gyakorlása
